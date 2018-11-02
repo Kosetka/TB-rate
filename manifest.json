@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "TeamBox Alert",
+	"name": "TeamBox Rate Notifier",
 	"version": "1.0",
 	"content_scripts": [
 		{
@@ -24,7 +24,7 @@
 	},
 	"browser_action": {
 		"default_icon": "t.png",
-		"default_title": "TeamBox Alert",
+		"default_title": "TeamBox Rate Notifier",
 		"default_popup": "index.html"
 	}
 }
